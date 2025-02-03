@@ -1,0 +1,80 @@
+.menus2{
+    background-color:black ;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    width: 1355px;
+    height: 80px;
+    display: block;
+
+}
+
+.contato2{
+    background-color:black;
+    color: white
+    text-align: center;
+    top: 10px;
+    left: 1270px;
+    position: absolute;
+    width: 70px;
+    height: 50px;
+    border-radius: 30px;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    display: flex;
+    font-size: 20px; /* Define o tamanho em pixels */
+    font-weight: bold; /* Define o texto em negrito */  
+}
+
+.bt-contato2{
+    color: white;
+    font-size: 20px; /* Define o tamanho em pixels */
+    font-weight: bold; /* Define o texto em negrito */  
+    text-decoration: none;
+}
+.planos2{
+    background-color:black;
+    color: white
+    text-align: center;
+    top: 10px;
+    left: 1170px;
+    position: absolute;
+    width: 70px;
+    height: 50px;
+    border-radius: 30px;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    display: flex;
+    font-size: 20px; /* Define o tamanho em pixels */
+    font-weight: bold; /* Define o texto em negrito */ 
+}
+.bt-planos2{
+    color: white;
+    font-size: 20px; /* Define o tamanho em pixels */
+    font-weight: bold; /* Define o texto em negrito */  
+    text-decoration: none;
+}
+
+.home2{
+    background-color: black;
+    color: white
+    text-align: center;
+    top: 10px;
+    left: 1070px;
+    position: absolute;
+    width: 70px;
+    height: 50px;
+    border-radius: 30px;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    display: flex;
+    font-size: 20px; /* Define o tamanho em pixels */
+    font-weight: bold; /* Define o texto em negrito */
+}
+
+.bt-home2{
+    color: white;
+    font-size: 20px; /* Define o tamanho em pixels */
+    font-weight: bold; /* Define o texto em negrito */  
+    text-decoration: none;
+}
